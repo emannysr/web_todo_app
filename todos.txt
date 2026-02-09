@@ -1,0 +1,5 @@
+Buy
+Jump
+Build
+Print
+run
